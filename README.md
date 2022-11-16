@@ -1,7 +1,6 @@
 
   <div id="header"  align="center">
-  <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" width="100" />
-  <div align="center"><img src="https://komarev.com/ghpvc/?username=teacher-cheater&style=flat-square&color=blue" alt=""/></div>
+    <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" width="100" />
     <h1 align="center"> Hi there 👋 I'm Evgeniy! <br/> I'm a Junoir FrontEnd Developer</h1>
   </div>
 
