@@ -2,7 +2,7 @@
   <div id="header"  align="center">
     <img src="/assets/space.png" width="100%" />
   </div>
-<h1 align="center">What I know:</h1>
+<h2 style="border: unset;" align="center">What I know:</h2>
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
   JavaScript
