@@ -1,6 +1,6 @@
 
   <div id="header"  align="center">
-    <img src="/assets/space.ng" width="100%" />
+    <img src="/assets/space.png" width="100%" />
     <h1 align="center"> Hi there 👋 I'm Evgeniy! <br/> I'm a Junoir FrontEnd Developer</h1>
   </div>
 
