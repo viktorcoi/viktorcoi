@@ -113,4 +113,28 @@
         <img src="./assets/cplus.svg" width="48" height="48" alt="cplus">
         <br>C++
     </td>
+    <td height="92" width="92" align="center">
+        <img src="./assets/bash.svg" width="48" height="48" alt="bash"/>
+        <br>Bash
+    </td>
+    <td height="92" width="92" align="center">
+        <img src="./assets/java.svg" width="48" height="48" alt="java"/>
+        <br>Java
+    </td>
+    <td height="92" width="92" align="center">
+        <img src="./assets/php.svg" width="48" height="48" alt="php"/>
+        <br>php
+    </td>
+    <td height="92" width="92" align="center">
+        <img src="./assets/python.svg" width="48" height="48" alt="python"/>
+        <br>Python
+    </td>
+    <td height="92" width="92" align="center">
+        <img src="./assets/mysql.svg" width="48" height="48" alt="mysql"/>
+        <br>MySQL
+    </td>
+    <td height="92" width="92" align="center">
+        <img src="./assets/sqlite.svg" width="48" height="48" alt="sqlite"/>
+        <br>SQLite
+    </td>
 </table>
