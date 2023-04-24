@@ -16,7 +16,7 @@
         <br>Css3
     </td>
         <td align="center">
-        <img src="data:image/svg+xml,%3Csvg width='68' height='61' viewBox='0 0 68 61' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='68' height='61' fill='%23D9D9D9'/%3E%3C/svg%3E%0A" alt="img">
+        <img src="./icon/js.svg" alt="img">
         <br>JavaScript
     </td>
 </table>
