@@ -2,7 +2,7 @@
     <img src="/assets/space.png" width="100%" />
 </div>
 
-### What I know:
+## align="center">What I know:
 <h3 align="center">Basic develop:</h3>
 
 <table align="center">
