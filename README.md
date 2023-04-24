@@ -7,15 +7,15 @@
 <h3 style="font-size: 1.5em;" align="center">Basic develop:</h3>
 
 <table align="center">
-    <td width="92" align="center" style="border-radius: 10px;">
+    <td height="92" width="92" align="center" style="border-radius: 10px;">
         <img src="./assets/html.svg" width="48" height="48" alt="Html5"/>
         <br>Html5
     </td>
-    <td  width="92" align="center">
+    <td height="92" width="92" align="center">
         <img src="./assets/css.svg" width="48" height="48" alt="css3"/>
         <br>Css3
     </td>
-    <td width="92" align="center">
+    <td height="92" width="92" align="center">
         <img src="./assets/js.svg" width="48" height="48" alt="js">
         <br>JavaScript
     </td>
@@ -28,9 +28,13 @@
         <img src="./assets/css.svg" width="48" height="48" alt="css3"/>
         <br>Css3
     </td>
-    <td width="92" align="center">
+    <td height="92" width="92" align="center">
         <img src="./assets/sass.svg" width="48" height="48" alt="js">
         <br>Sass
+    </td>
+        <td height="92" width="92" align="center">
+        <img src="./assets/scss.svg" width="48" height="48" alt="js">
+        <br>Scss
     </td>
 </table>
 
