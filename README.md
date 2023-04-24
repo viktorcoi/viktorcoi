@@ -29,12 +29,17 @@
         <br>Css3
     </td>
     <td height="92" width="92" align="center">
-        <img src="./assets/sass.svg" width="48" height="48" alt="js">
+        <img src="./assets/sass.svg" width="48" height="48" alt="sass">
         <br>Sass
     </td>
         <td height="92" width="92" align="center">
-        <img src="./assets/scss.svg" width="48" height="48" alt="js">
+        <img src="./assets/scss.svg" width="48" height="48" alt="scss">
         <br>Scss
+    </td>
+        </td>
+        <td height="92" width="92" align="center">
+        <img src="./assets/less.svg" width="48" height="48" alt="less">
+        <br>Less
     </td>
 </table>
 
