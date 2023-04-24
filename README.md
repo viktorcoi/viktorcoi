@@ -7,7 +7,7 @@
 
 
 <table width='100%'>
-    <td align="center">
+    <td align="center" style="border: none !important;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
       <br>Html5
     </td>
