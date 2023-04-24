@@ -114,7 +114,7 @@
         <br>C++
     </td>
     <td height="92" width="92" align="center">
-        <img src="./assets/bash.ssvg" width="48" height="48" alt="bash"/>
+        <img src="./assets/bash.svg" width="48" height="48" alt="bash"/>
         <br>Bash
     </td>
     <td height="92" width="92" align="center">
