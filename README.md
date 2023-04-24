@@ -3,11 +3,11 @@
     <img src="/assets/space.png" width="100%" />
 </div>
 
-<h1 style="font-size: 10px; border-bottom: none" align="center">What I know:</h1>
-<h3 style="font-size: 1.5em;" align="center">Basic develop:</h3>
+<h1 align="center">What I know:</h1>
+<h3 align="center">Basic develop:</h3>
 
 <table align="center">
-    <td height="92" width="92" align="center" style="border-radius: 10px;">
+    <td height="92" width="92" align="center">
         <img src="./assets/html.svg" width="48" height="48" alt="Html5"/>
         <br>Html5
     </td>
@@ -21,7 +21,7 @@
     </td>
 </table>
 
-<h3 style="font-size: 1.5em;" align="center">Styles develop:</h3>
+<h3 align="center">Styles develop:</h3>
 
 <table align="center">
     <td height="92" width="92" align="center">
@@ -46,7 +46,7 @@
     </td>
 </table>
 
-<h3 style="font-size: 1.5em;" align="center">Functional develop and Frameworks:</h3>
+<h3 align="center">Functional develop and Frameworks:</h3>
 
 <table align="center">
     <td height="92" width="92" align="center">
@@ -71,10 +71,10 @@
     </td>
 </table>
 
-<h3 style="font-size: 1.5em;" align="center">Other develop tools:</h3>
+<h3 align="center">Other develop tools:</h3>
 
 <table align="center">
-    <td height="92" width="92" align="center" style="border-radius: 10px;">
+    <td height="92" width="92" align="center">
         <img src="./assets/figma.svg" width="48" height="48" alt="figma"/>
         <br>Figma
     </td>
