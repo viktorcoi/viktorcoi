@@ -8,11 +8,11 @@
 
 <table width='100%'>
   <tr>
-    <td align="center" width="96">
+    <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
       <br>Html5
     </td>
-        <td align="center" width="96">
+        <td align="center">
        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
       <br>Css3
     </td>
