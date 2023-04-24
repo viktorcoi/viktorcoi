@@ -87,13 +87,8 @@
     </td>
 </table>
 
-
 <hr/>
 
-
-
-
-<h2 align="center"> 🔥 My Stats : </h2>
 <table>
     <td>
         <img  height="200px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=viktorcoi&theme=vision-friendly-dark" alt="Github stats" />
