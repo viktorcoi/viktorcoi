@@ -1,5 +1,5 @@
 <style>
-td, th {
+h2, th {
    border: none!important;
 }
 </style>
