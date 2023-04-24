@@ -6,8 +6,8 @@
 <h3 style="font-size: 1.5em;" align="center">Basic develop:</h3>
 
 
-<table width='100%'>
-    <td align="center" style="border: none !important;">
+<table>
+    <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
       <br>Html5
     </td>
