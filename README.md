@@ -3,7 +3,7 @@
     <img src="/assets/space.png" width="100%" />
 </div>
 
-<h1 style="font-size: 1.5em; border-bottom: none" align="center">What I know:</h1>
+<h1 style="font-size: 1em; border-bottom: none" align="center">What I know:</h1>
 <h3 style="font-size: 1.5em;" align="center">Basic develop:</h3>
 
 <table align="center">
