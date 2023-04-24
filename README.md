@@ -16,7 +16,7 @@
         <br>Css3
     </td>
         <td align="center">
-        <img src="data:image/svg+xml,%3Csvg width='128' height='128' viewBox='0 0 128 128' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M19.0372 113.876L9.03223 1.66101H118.968L108.952 113.859L63.9332 126.339L19.0372 113.876Z' fill='%23DFBA13'/%3E%3Cpath d='M64 116.8L100.378 106.714L108.937 10.8361H64V116.8Z' fill='%23FFDA1F'/%3E%3Cpath d='M31.5 39.5L30 26H60.5V101L26.5 94.5L24.5 73.5H38.5L39.5 84.5L47 85.5V39.5H31.5Z' fill='white'/%3E%3Cpath d='M67.5 66.5V26H103L102 39.5H82V53.5H101L97 94.5L67.5 101.5V87.5L84.5 84.5L86 66.5H67.5Z' fill='white'/%3E%3C/svg%3E%0A" alt="img">
+        <img src="data:image/svg+xml,%3Csvg width='68' height='61' viewBox='0 0 68 61' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='68' height='61' fill='%23D9D9D9'/%3E%3C/svg%3E%0A" alt="img">
         <br>JavaScript
     </td>
 </table>
