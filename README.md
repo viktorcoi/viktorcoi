@@ -89,7 +89,7 @@
 
 <hr/>
 
-<table>
+<table  style="border: none;">
     <td style="border: none;">
         <img  height="200px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=viktorcoi&theme=vision-friendly-dark" alt="Github stats" />
     </td>
