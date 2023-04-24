@@ -1,14 +1,8 @@
-<style>
-h2, th {
-   border: none!important;
-}
-</style>
-
 <div id="header"  align="center">
     <img src="/assets/space.png" width="100%" />
 </div>
 
-<h2 align="center">What I know:</h2>
+### What I know:
 <h3 align="center">Basic develop:</h3>
 
 <table align="center">
