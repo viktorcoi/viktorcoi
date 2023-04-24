@@ -99,3 +99,18 @@
 </table>
 
 <h2 align="center">I have experience in languages:</h2>
+
+<table align="center">
+    <td height="92" width="92" align="center">
+        <img src="./assets/c.svg" width="48" height="48" alt="c"/>
+        <br>C
+    </td>
+    <td height="92" width="92" align="center">
+        <img src="./assets/csharp.svg" width="48" height="48" alt="csharp"/>
+        <br>C#
+    </td>
+    <td height="92" width="92" align="center">
+        <img src="./assets/cplus.svg" width="48" height="48" alt="cplus">
+        <br>C++
+    </td>
+</table>
