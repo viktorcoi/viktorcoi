@@ -1,3 +1,8 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
 <div id="header"  align="center">
     <img src="/assets/space.png" width="100%" />
