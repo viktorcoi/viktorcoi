@@ -89,8 +89,8 @@
 
 <hr/>
 
-<table  style="border: none;">
-    <td style="border: none;">
+<table>
+    <td>
         <img  height="200px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=viktorcoi&theme=vision-friendly-dark" alt="Github stats" />
     </td>
     <td>
@@ -98,4 +98,4 @@
     </td>
 </table>
 
-<br />
+<h2 align="center">I have experience in languages:</h2>
