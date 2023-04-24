@@ -46,15 +46,32 @@
     </td>
 </table>
 
+<h3 style="font-size: 1.5em;" align="center">Functional development and Frameworks:</h3>
+
+<table align="center">
+    <td height="92" width="92" align="center">
+        <img src="./assets/js.svg" width="48" height="48" alt="js"/>
+        <br>JavaScript
+    </td>
+    <td height="92" width="92" align="center">
+        <img src="./assets/jquery.svg" width="48" height="48" alt="jquery">
+        <br>jQuery
+    </td>
+    <td height="92" width="92" align="center">
+        <img src="./assets/react.svg" width="48" height="48" alt="react">
+        <br>React JS
+    </td>
+    <td height="92" width="92" align="center">
+        <img src="./assets/next.svg" width="48" height="48" alt="next">
+        <br>Next JS
+    </td>
+    <td height="92" width="92" align="center">
+        <img src="./assets/ajax.svg" width="48" height="48" alt="ajax">
+        <br>Ajax js
+    </td>
+</table>
 
 
-
-
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
-  JavaScript
-
-</div>
 
 <table width='100%'>
   <tr>
