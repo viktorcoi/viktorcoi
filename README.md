@@ -3,7 +3,7 @@
     <img src="/assets/space.png" width="100%" />
 </div>
 
-<h1 align="center">What I know:</h1>
+<h2 align="center">What I know:</h2>
 <h3 align="center">Basic develop:</h3>
 
 <table align="center">
@@ -89,7 +89,7 @@
 </table>
 
 
-<hr />
+<hr height="200px" />
   <img width="100%" height="200px" align="center" alt="viktorcoi Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viktorcoi&theme=vision-friendly-dark&layout=compact" />
 
 
