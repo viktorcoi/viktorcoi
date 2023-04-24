@@ -46,7 +46,7 @@
     </td>
 </table>
 
-<h3 style="font-size: 1.5em;" align="center">Functional development and Frameworks:</h3>
+<h3 style="font-size: 1.5em;" align="center">Functional develop and Frameworks:</h3>
 
 <table align="center">
     <td height="92" width="92" align="center">
