@@ -89,7 +89,7 @@
 </table>
 
 
-<hr height="200px" />
+<hr height="1px"/>
   <img width="100%" height="200px" align="center" alt="viktorcoi Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viktorcoi&theme=vision-friendly-dark&layout=compact" />
 
 
