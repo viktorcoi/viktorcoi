@@ -32,14 +32,17 @@
         <img src="./assets/sass.svg" width="48" height="48" alt="sass">
         <br>Sass
     </td>
-        <td height="92" width="92" align="center">
+    <td height="92" width="92" align="center">
         <img src="./assets/scss.svg" width="48" height="48" alt="scss">
         <br>Scss
     </td>
-        </td>
-        <td height="92" width="92" align="center">
+    <td height="92" width="92" align="center">
         <img src="./assets/less.svg" width="48" height="48" alt="less">
         <br>Less
+    </td>
+    <td height="92" width="92" align="center">
+        <img src="./assets/bootstrap.svg" width="48" height="48" alt="bootstrap">
+        <br>Bootstrap
     </td>
 </table>
 
