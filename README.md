@@ -94,8 +94,11 @@
 
 
 <h2 align="center"> 🔥 My Stats : </h2>
+<table>
+  <tr>
       <img  height="200px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=viktorcoi&theme=vision-friendly-dark" alt="Github stats" />
       <img  height="200px" align="right" alt="viktorcoi Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viktorcoi&theme=vision-friendly-dark&layout=compact" />
-
+   </tr>
+</table>
 
 <br />
