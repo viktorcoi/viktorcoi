@@ -16,7 +16,7 @@
         <br>Css3
     </td>
         <td align="center">
-        <img src="./icon/js.svg" alt="img">
+        <img src="./icon/js.svg" width="48" height="48" alt="js">
         <br>JavaScript
     </td>
 </table>
