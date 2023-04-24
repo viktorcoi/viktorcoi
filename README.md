@@ -90,7 +90,7 @@
 
 
 <br />
-  <img  height="200px" align="right" alt="viktorcoi Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viktorcoi&theme=vision-friendly-dark&layout=compact" />
+  <img width="100%" height="200px" align="center" alt="viktorcoi Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viktorcoi&theme=vision-friendly-dark&layout=compact" />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktorcoi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viktorcoi&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
