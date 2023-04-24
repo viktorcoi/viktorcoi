@@ -8,15 +8,15 @@
 
 <table align="center">
     <td align="center" style="border-radius: 10px;">
-        <img src="./icon/html.svg" width="48" height="48" alt="Html5"/>
+        <img src="./assets/html.svg" width="48" height="48" alt="Html5"/>
         <br>Html5
     </td>
     <td align="center">
-        <img src="./icon/js.svg" width="48" height="48" alt="css3"/>
+        <img src="./assets/css.svg" width="48" height="48" alt="css3"/>
         <br>Css3
     </td>
         <td align="center">
-        <img src="./icon/js.svg" width="48" height="48" alt="js">
+        <img src="./assets/js.svg" width="48" height="48" alt="js">
         <br>JavaScript
     </td>
 </table>
