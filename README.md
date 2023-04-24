@@ -23,6 +23,20 @@
 
 <h3 style="font-size: 1.5em;" align="center">Styles develop:</h3>
 
+<table align="center">
+    <td width="92" align="center">
+        <img src="./assets/css.svg" width="48" height="48" alt="css3"/>
+        <br>Css3
+    </td>
+    <td width="92" align="center">
+        <img src="./assets/sass.svg" width="48" height="48" alt="js">
+        <br>Sass
+    </td>
+</table>
+
+
+
+
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
