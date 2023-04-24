@@ -16,7 +16,7 @@
         <br>Css3
     </td>
         <td align="center">
-        <img src="https://www.pinclipart.com/picdir/big/16-165768_javascript-logo-number-angularjs-node-javascript-logo-png.png" width="48" height="48" alt="JavaScript"/>
+        <img src="https://mdstage.com/wp-content/uploads/2017/11/js.png" width="48" height="48" alt="JavaScript"/>
         <br>JavaScript
     </td>
 </table>
