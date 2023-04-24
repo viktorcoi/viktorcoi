@@ -98,7 +98,7 @@
     </td>
 </table>
 
-<h2 align="center">I have experience in languages:</h2>
+<h3 align="center">I have experience in languages:</h3>
 
 <table align="center">
     <td height="92" width="92" align="center">
