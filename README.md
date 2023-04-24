@@ -21,6 +21,7 @@
     </td>
 </table>
 
+<h3 style="font-size: 1.5em;" align="center">Styles develop:</h3>
 
 
 <div align="center">
