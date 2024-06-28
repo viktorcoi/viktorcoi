@@ -52,17 +52,21 @@
         <img src="./assets/js.svg" width="48" height="48" alt="js"/>
         <br>JavaScript
     </td>
+      <td height="92" width="92" align="center">
+        <img src="./assets/ts.svg" width="48" height="48" alt="react">
+        <br>TypeScript
+    </td>
     <td height="92" width="92" align="center">
         <img src="./assets/jquery.svg" width="48" height="48" alt="jquery">
         <br>jQuery
     </td>
     <td height="92" width="92" align="center">
         <img src="./assets/react.svg" width="48" height="48" alt="react">
-        <br>React JS
+        <br>React
     </td>
     <td height="92" width="92" align="center">
         <img src="./assets/next.svg" width="48" height="48" alt="next">
-        <br>Next JS
+        <br>Next
     </td>
     <td height="92" width="92" align="center">
         <img src="./assets/ajax.svg" width="48" height="48" alt="ajax">
