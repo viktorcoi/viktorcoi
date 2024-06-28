@@ -95,7 +95,11 @@
     </td>
     <td height="92" width="92" align="center">
         <img src="./assets/github.svg" width="48" height="48" alt="github">
-        <br>Github
+        <br>GitHub
+    </td>
+    <td height="92" width="92" align="center">
+        <img src="./assets/gitlab.svg" width="48" height="48" alt="github">
+        <br>GitLab
     </td>
 </table>
 
