@@ -74,7 +74,7 @@
     </td>
     <td height="92" width="92" align="center">
         <img src="./assets/reduxT.svg" width="48" height="48" alt="react">
-        <br>Redux Toolkit
+        <br>RTK
     </td>
     <td height="92" width="92" align="center">
         <img src="./assets/ajax.svg" width="48" height="48" alt="ajax">
