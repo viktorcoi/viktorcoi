@@ -73,7 +73,7 @@
         <br>Redux
     </td>
     <td height="92" width="92" align="center">
-        <img src="./assets/RTK" width="48" height="48" alt="react">
+        <img src="./assets/RTK.svg" width="48" height="48" alt="react">
         <br>RTK
     </td>
     <td height="92" width="92" align="center">
